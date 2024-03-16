@@ -1,0 +1,6 @@
+bántod a érzéseim :(((((;print('');
+No billentyűzet;inp.bill_baszo.start()
+No egér;inp.eger_baszo.start()
+No balls;mega2.show()
+No bitches;mega1.show()
+No System32?;
